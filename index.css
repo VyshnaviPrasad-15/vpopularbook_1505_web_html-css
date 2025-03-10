@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #06070d;
+    background-size: cover;
+    min-height: 100vh;
+    width: 400px;
+    padding: 1px;
+    text-align: left;
+}
+
+.main-heading {
+    color: white;
+    font-size: 24px;
+    padding: 20px;
+    font-family: "Bree serif";
+}
+
+.image1 {
+    width: 140px;
+}
+
+.bg-kalam {
+    background-color: #e7f6ff;
+    margin: 20px;
+    border-radius: 10px;
+    font-family: "Bree serif";
+}
+
+.heading1 {
+    color: #183b56;
+    font-size: 20px;
+    padding-left: 14px;
+    padding-top: 14px;
+}
+
+.para1 {
+    color: #06070d;
+    font-size: 14px;
+    padding-left: 14px;
+}
+
+.para2 {
+    color: #183b56;
+    font-size: 14px;
+    padding-left: 14px;
+}
+
+.button {
+    margin-left: 15px;
+}
+
+.image2 {
+    width: 115px;
+    height: 145px;
+    padding-left: 14px;
+    padding-bottom: 14px;
+}
+
+.heading2 {
+    font-family: "Bree serif";
+    font-size: 22px;
+    color: white;
+    padding-left: 18px;
+}
+
+.heading3 {
+    font-size: 18px;
+    color: white;
+    padding-left: 10px;
+    font-family: "Bree serif";
+}
+
+.para3 {
+    font-size: 14px;
+    color: #e4e7eb;
+    padding-left: 10px;
+    font-family: "Bree serif";
+}
+
+.img-det {
+    height: 220px;
+    width: 150px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+
+.wings {
+    text-align: center;
+}
+
+.head-det {
+    color: white;
+    font-size: 32px;
+    font-family: "Bree serif";
+    text-align: center;
+    padding-top: 20px;
+}
+
+.para-det1 {
+    color: #9aa5b1;
+    font-size: 14px;
+    text-align: center;
+    font-family: "Bree serif";
+}
+
+.para-det2 {
+    color: white;
+    font-size: 12px;
+    font-family: "Bree serif";
+    padding: 15px;
+}
+
+.det-button1 {
+    background-color: orange;
+    color: black;
+    width: 60px;
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 2px;
+}
+
+.det-button2 {
+    border-radius: 5px;
+    border-width: 0px;
+    margin: 2px;
+}
